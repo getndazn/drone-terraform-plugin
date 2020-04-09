@@ -1,6 +1,6 @@
 ## ⚠️ DEPRECATION NOTICE ⚠️ 
 
-We are unsure the original intentions with forking this repo. It's also unclear who is actively maintaining it. Due to it being a fork we'd need to keep manually syncing with the main repo to prevent it getting behind. We suggest either using the [originally forked repo](https://github.com/jmccann/drone-terraform) or our internal plugin which wraps and creates [DAZN specific Terraform back-end configs](https://github.com/getndazn/drone-terraform-nzad). 
+We are unsure the original intentions with forking this repo. It's also unclear who is actively maintaining it. Due to it being a fork we'd need to keep manually syncing with the main repo to prevent it getting behind. We suggest either using the [originally forked repo](https://github.com/jmccann/drone-terraform) or the DAZN plugin ([drone-terraform-nzad](https://github.com/getndazn/)) which wraps and creates DAZN specific Terraform back-end configs. 
 
 # drone-terraform
 
